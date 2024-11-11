@@ -6,14 +6,14 @@ This project purely focuses on sales of a supermrket and it is a in-depth analys
 
 ### Table Of Contents 
 
--[Project Overview](#project-overview)
--[Data Sources](#data-sources)
--[Tools](#tools)
--[Data Cleaning](#data-cleaning)
--[Exploratory Data Analysis](#exploratory-data-analysis)
--[Findings](#findings)
--[Recommendations](#recommendations)
--[References](#references)
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
+- [References](#references)
 
 ### Data Sources
 
