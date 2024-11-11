@@ -4,6 +4,11 @@
 
 This project purely focuses on sales of a supermrket and it is a in-depth analysis using kaggle dataset. It aim to weigh the perfomence of the company based on  the demographic area, spending happits by both genders number of products sold from each brand, analyzes profit margin by product category, also gain a deeper understanding of in demand products.
 
+
+![Dashboard report (2)](https://github.com/user-attachments/assets/ce7a1db0-bf57-4750-8b13-387c9d38defe)
+
+
+
 ### Table Of Contents 
 
 - [Project Overview](#project-overview)
